@@ -1,5 +1,5 @@
 .odd {
-    background-color: rebeccapurple;
+    background-color: rgba(197, 90, 20, 0.745);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
@@ -7,12 +7,12 @@
     font-size: 24px;
 }
 
-.two {
+#two {
     color: #0000ff;
     font-size: 36px;
 }
 
-.four {
+#four {
     background-color: hsl(120, 100%, 75%);
     font-size: 24px;
     font-weight: bold;
